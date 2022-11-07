@@ -1,0 +1,164 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/78e732c620334b5e8e5d821685c1c4b5_584x584.jpeg",
+      "name": "Додо Микс",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 445,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/2d1fc30e0e324de798e70e57f039fe41_584x584.jpeg",
+      "name": "Чиззи чеддер \uD83E\uDDC0",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 395,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/4518d232ca98422f876872b0fb2669a3_584x584.jpeg",
+      "name": "Цезарь",
+      "types": [0,1],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/72c7882f35ad4db1805bb43f09717d8d_584x584.jpeg",
+      "name": "Аррива ",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/a8413f18d18341b5a0de51e9a7807265_584x584.jpeg",
+      "name": "Цыпленок блю чиз",
+      "types": [ 1],
+      "sizes": [26, 30, 40],
+      "price": 455,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/32ab88d1819048e285a91d91b9ef4451_584x584.jpeg",
+      "name": "Песто",
+      "types": [0, 1],
+      "sizes": [26,30, 40],
+      "price": 445,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/56f839f334694a0a844ea8f7ef5c8b65_584x584.jpeg",
+      "name": "Карбонара",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 400,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+      "name": "Маргарита \uD83C\uDF31",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/acaac700-4c9a-4fde-b7c2-4483f52e8427.jpg",
+      "name": "Мексиканская \uD83C\uDF36️\uD83C\uDF36️ ",
+      "types": [ 1],
+      "sizes": [26, 30, 40],
+      "price": 440,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/2d674f990a794efe8106c4a03b58310d_584x584.jpeg",
+      "name": "Додо",
+      "types": [0, 1],
+      "sizes": [26, 30],
+      "price": 620,
+      "category": 4,
+      "rating": 7
+    },
+  {
+      "id": 10,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/522d6ea5e38d42049b214a79dad45d45_584x584.jpeg",
+      "name": "Нежный лосось",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 495,
+      "category": 3,
+      "rating": 7
+    },
+  {
+      "id": 11,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/88cfeba06c7d4863852c483d0817f763_584x584.jpeg",
+      "name": "Мясная",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 420,
+      "category": 0,
+      "rating": 7
+    },
+  {
+      "id": 12,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/418ea894-ddea-40b1-b8e2-be9bda558367.jpg",
+      "name": "Двойная пепперонни",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 420,
+      "category": 1,
+      "rating": 7
+    },
+  {
+      "id": 13,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/de3aa884d63f43ac86fde8aa60d0b762_584x584.jpeg",
+      "name": "Запеченное яблоко \uD83C\uDF31 ",
+      "types": [0],
+      "sizes": [26, 30],
+      "price": 350,
+      "category": 0,
+      "rating": 2
+    },
+  {
+      "id": 14,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/704adfe0-982d-4bb8-9a2a-5554c356df87.jpg",
+      "name": "Супермясная \uD83E\uDD69",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 545,
+      "category": 2,
+      "rating": 7
+    },
+  {
+      "id": 15,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/8e333265-1b36-4811-8e69-150022f9aab7.jpg",
+      "name": "Пицца-пирог \uD83C\uDF31 ",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 345,
+      "category": 2,
+      "rating": 7
+    }
+  ]
+}
